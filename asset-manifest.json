@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/intro-component-signup/static/css/main.0be80072.css",
+    "main.js": "/intro-component-signup/static/js/main.0897f637.js",
+    "static/media/Poppins-MediumItalic.ttf": "/intro-component-signup/static/media/Poppins-MediumItalic.89e040c6a64d18f620dc.ttf",
+    "static/media/Poppins-Regular.ttf": "/intro-component-signup/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/Poppins-Medium.ttf": "/intro-component-signup/static/media/Poppins-Medium.673ed42382ab264e0bf5.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/intro-component-signup/static/media/Poppins-SemiBold.ac8d04b620e54be9b0f0.ttf",
+    "static/media/Poppins-Bold.ttf": "/intro-component-signup/static/media/Poppins-Bold.cdb29a5d7ccf57ff05a3.ttf",
+    "static/media/bg-intro-desktop.png": "/intro-component-signup/static/media/bg-intro-desktop.059183eea52640c5068d.png",
+    "static/media/bg-intro-mobile.png": "/intro-component-signup/static/media/bg-intro-mobile.02ce398270ece1769ebc.png",
+    "index.html": "/intro-component-signup/index.html",
+    "static/media/icon-error.svg": "/intro-component-signup/static/media/icon-error.b72f792e9c900128f5c8.svg",
+    "main.0be80072.css.map": "/intro-component-signup/static/css/main.0be80072.css.map",
+    "main.0897f637.js.map": "/intro-component-signup/static/js/main.0897f637.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0be80072.css",
+    "static/js/main.0897f637.js"
+  ]
+}
